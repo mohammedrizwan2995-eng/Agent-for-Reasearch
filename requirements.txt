@@ -1,0 +1,4 @@
+google-adk
+google-genai
+pydantic
+# Add any other libraries you use, e.g., redis, numpy, etc.
